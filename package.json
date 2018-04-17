@@ -1,0 +1,17 @@
+{
+  "name": "lol",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "faucet",
+    "watch": "faucet --watch"
+  },
+  "keywords": [],
+  "author": "Lucas Dohmen <lucas@dohmen.io> (https://lucas.dohmen.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "document-register-element": "^1.8.1",
+    "faucet-pipeline-esnext": "^1.0.0-rc.5"
+  }
+}
