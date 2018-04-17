@@ -1,5 +1,3 @@
-import "document-register-element/build/document-register-element.js"
-
 class Bla extends HTMLElement {
 }
 
